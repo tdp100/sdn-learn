@@ -1,6 +1,11 @@
 SDN资源
 ===========
 
+###### 发展
+1. 开放网络分布势力
+![new-network](image/new-network.png)
+2. 开放网络支持的团队
+![open-network](image/open-network.png)
 ###### SDN三要素
 ![sdn component](image/httpswww.opennetworking.png)
 
