@@ -5,15 +5,10 @@ SDN资源
 ![sdn component](image/httpswww.opennetworking.png)
 
 1. vswitch
+(router, switch)
 2. openflow protocol
 3. control panel
-
-+ vswitch
-(router, switch)
-
-+ openflow
-
-+ [开源的controller panel](http://www.sdnap.com/sdnap-post/485.html)
+  + [开源的controller panel](http://www.sdnap.com/sdnap-post/485.html)
   + NOX
   + POX
   + Beacon
