@@ -3,6 +3,7 @@ SDN资源
 
 ###### SDN三要素
 ![sdn component](image/httpswww.opennetworking.png)
+
 1. vswitch
 2. openflow protocol
 3. control panel
