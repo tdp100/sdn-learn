@@ -37,8 +37,10 @@ SDN资源
 1. 基于OpenFlow的SDN技术_左青云_陈鸣_赵广松_邢长友_张国敏_蒋培成.pdf
 
 ###### SDN 资料
-1. 开源组织：[ONF](https://www.opennetworking.org/)
-2. 国内组织：[sdnap](http://www.sdnap.com/sdn-guide)
-3. 大学竞赛：http://www.scut.edu.cn/sdn/
-
+1. SDN开源组织：[ONF](https://www.opennetworking.org/)
+2. SDN国内组织：[sdnap](http://www.sdnap.com/sdn-guide)
+3. SDN大学竞赛：http://www.scut.edu.cn/sdn/
+4. 网站：[sdncentral](https://www.sdncentral.com/)
+5. NFV: [https://www.sdncentral.com/flow/nfv-network-functions-virtualization/](https://www.sdncentral.com/flow/nfv-network-functions-virtualization/)
+6. NFV组织：[Word Class Standards](http://portal.etsi.org/nfv)
 
